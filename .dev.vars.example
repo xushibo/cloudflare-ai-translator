@@ -1,0 +1,2 @@
+# Copy to .dev.vars and replace the placeholder. Never commit .dev.vars.
+CF_ANALYTICS_TOKEN="replace-with-account-analytics-read-token"
